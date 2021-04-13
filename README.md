@@ -7,7 +7,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://vercel.com/cuervolu/spotify/94rfcuLBkyzGZoYi7tyhw8kRs5et" alt="Cuervolu Spotify Playing" width="350" />](https://open.spotify.com/user/reinaldocuervo?si=cPYhH7s5Ts-Ptsu0QqutwA)
+[<img src="https://spotify-cuervolu.vercel.app/" alt="Cuervolu Spotify Playing" width="350" />](https://open.spotify.com/user/reinaldocuervo?si=cPYhH7s5Ts-Ptsu0QqutwA)
 
 
 ### Connect with me:
