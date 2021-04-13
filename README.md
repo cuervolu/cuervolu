@@ -7,7 +7,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-cuervolu.vercel.app/" alt="Cuervolu Spotify Playing" width="350" />](https://open.spotify.com/user/8G0zRs26Q3qh4Cg9AWXisQ)
+[<img src="https://novatorem-fs68zj6yf-cuervolu.vercel.app" alt="Cuervolu Spotify Playing" width="350" />](https://open.spotify.com/user/8G0zRs26Q3qh4Cg9AWXisQ)
 
 ### Connect with me:
 
