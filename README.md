@@ -15,8 +15,6 @@ I like to learn everything about software and web development!
   <summary><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="26"><samp>Details
      </samp> </summary>
 
-<br />
-
 ### Languages and Tools i'm learning:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
@@ -36,7 +34,7 @@ I like to learn everything about software and web development!
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cuervolu" alt="cuervolu" /></a> </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cuervolu&show_icons=true&locale=en&layout=compact" alt="cuervolu" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cuervolu&" alt="cuervolu" /></p>
+
 
 <br />
 </details>
