@@ -7,7 +7,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-khaki.vercel.app/" alt="Cuervolu Spotify Playing" width="350" />]
+<img src="https://spotify-khaki.vercel.app/" alt="Cuervolu Spotify Playing" width="350" /> (https://open.spotify.com/user/cPYhH7s5Ts-Ptsu0QqutwA)
 
 ### Connect with me:
 
