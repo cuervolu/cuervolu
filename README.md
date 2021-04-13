@@ -8,7 +8,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Cuervolu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/cuervolu/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Cuervolu)  
+
 
 <br />
 
@@ -36,6 +38,4 @@
 
 </details>
 
-[website]: https://instagram.com/cuervolu
-[instagram]: https://instagram.com/cuervolu
 
