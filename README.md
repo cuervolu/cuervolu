@@ -1,6 +1,7 @@
-<a href="https://imgur.com/IsTGQ2t"><img src="https://i.imgur.com/IsTGQ2t.png" title="source: imgur.com" /></a>
+### Hi there 👋, I'm **Cuervolu**
+#### I am a student at DuocUC 
 
-I like to learn everything about software and web development
+I like to learn everything about software and web development!
 
 - 🌱 I’m currently learning everything :T 
 - ⚡ Fun fact: I am a cinephile 
