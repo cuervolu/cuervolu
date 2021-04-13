@@ -7,9 +7,13 @@ I like to learn everything about software and web development!
 - ⚡ Fun fact: I am a cinephile 
 
 ### Connect with me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cuervolu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/cuervolu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Cuervolu)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='26'>](https://github.com/cuervolu) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='26'>](https://www.instagram.com/cuervolu/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='26'>](https://www.reddit.com/user/Cuervolu)  
 
-
+<details>
+  <summary><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="26"><samp>Details
+     </samp> </summary>
 
 <br />
 
@@ -25,18 +29,23 @@ I like to learn everything about software and web development!
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 <p align="left"> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="26" /> </a> </p>
-</a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="26"/> </a> 
-
 
 <br />
-<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cuervolu&show_icons=true&locale=en&layout=compact" alt="cuervolu" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cuervolu&show_icons=true&locale=en" alt="cuervolu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cuervolu&" alt="cuervolu" /></p>
+
+<br />
+</details>
 ---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Cuervolu GitHub Stats" src="https://github-readme-stats-nine-plum-53.vercel.app/api?username=cuervolu&show_icons=true&hide_border=true" />
+  
 
 </details>
 
