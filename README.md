@@ -3,7 +3,7 @@
 
 I like to learn everything about software and web development!
 
-- 🌱 I’m currently in the third semester :T 
+- 🌱 I’m currently in the fourth semester :T 
 - ⚡ Fun fact: I am a cinephile 
 
 ### Connect with me:
