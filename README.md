@@ -53,14 +53,30 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"  height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet"  height="50"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express"  height="50"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase"  height="50"/>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter"  height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go"  height="50"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic"  height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"  height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"  height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs"  height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs"  height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"  height="50"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt"  height="50"/>
+<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative"  height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"  height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust"  height="50"/> 
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring"  height="50"/>
+  
 </div>
 </details>
 
 <details>
 <summary>:zap: GitHub Stats</summary>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cuervolu&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuervolu&hide_border=true&layout=compact" align="center" /></div>  
+  
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cuervolu&show_icons=true&theme=dark&locale=en&layout=compact" alt="cuervolu" /></div> 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=cuervolu&&style=flat-square" align="center" />
 </div>  
