@@ -55,7 +55,7 @@ export const thingsImLearning = () => ({
     mobile: ['Ionic', 'Flutter', 'React Native'],
     databases: [ 'MySQL', 'SQLite', 'Oracle', 'Firestore','Mongo', ],
   },
-  architecture: [ "MVC"],
+  architecture: ['MVC'],
   os: [ 'Kali', 'Windows', 'Ubuntu', 'Manjaro' ]
 });
 ```
