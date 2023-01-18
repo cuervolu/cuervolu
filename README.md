@@ -66,11 +66,11 @@ export const thingsImLearning = () => ({
 
 <details>
 <summary>:zap: GitHub Stats</summary>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cuervolu&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cuervolu&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="center" /></div>  
 <br />
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=cuervolu&label=Profile%20views&color=0e75b6&style=flat" alt="cuervolu" /> </div>
   
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cuervolu&show_icons=true&theme=dark&locale=en&layout=compact" alt="cuervolu" /></div> 
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuervolu&layout=compact&langs_count=10&theme=dracula" alt="cuervolu" /></div> 
 <div align="center">
 
 </div>  
