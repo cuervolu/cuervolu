@@ -38,24 +38,32 @@
 
 ```typescript
 export const thingsImLearning = () => ({
+  askMeAbout: [
+    'WebDev', 'MobileDev', 'DesktopDev', 'Tech', 'Music',
+     'History', 'Video Games', 'Anime', 'Movies', 'Series'
+  ],
   technologies: {
-    tools: [ 'Visual Studio Code', 'Intellij IDEA', 'Apache NetBeans','SQL Developer', 'Redux', 'WSL' ],
+    tools: [ 'Visual Studio Code', 'Intellij IDEA',
+        'Apache NetBeans','SQL Developer', 'Redux', 'WSL',
+        'SQL Server Management Studio', 'Visual Studio', 'Formik' ],
     languages: [
-      'Javascript', 'Typescript', 'Java', 'C#', 'Rust', 'Python', 'Go'
+        'Javascript', 'Typescript', 'Java', 'C#', 'Rust', 'Python', 'Go'
     ],
     frontEnd: {
-      js: [ 'Angular', 'React'],
-      css: [ 'Bootstrap', 'Material UI' ]
+      js: [ 'Angular', 'React', 'Next.js'],
+      css: [ 'Bootstrap', 'Material UI', 'TailwindCSS', 'NextUI', 'Bulma']
     },
     backEnd: {
-      js: [ 'Node', 'Express', 'Nest' ],
+      js: [ 'Node', 'Express', 'Nest','ASP.NET' ],
       python: [ 'Django'],
-      misc: [ 'Firebase'],
+      misc: [ 'Firebase', 'Bash', 'Powershell', 'zsh'],
     },
     mobile: ['Ionic', 'Flutter', 'React Native'],
-    databases: [ 'MySQL', 'SQLite', 'Oracle', 'Firestore','Mongo', ],
+    desktop: ['WinForms', 'WPF', 'Electron', 'Tkinter', 'Swing', 'JavaFX'],
+    databases: [ 'MySQL', 'SQLite', 'Oracle', 'Firestore','Mongo', 'SQL Server'],
   },
-  architecture: ['MVC'],
+  architecture: ['MVC', 'MVVM', 'Microservices'],
+  integration: ['SOAP', 'API REST'],
   os: [ 'Kali', 'Windows', 'Ubuntu', 'Manjaro' ]
 });
 ```
