@@ -63,7 +63,7 @@ export const thingsImLearning = () => ({
     databases: [ 'MySQL', 'SQLite', 'Oracle', 'Firestore','Mongo', 'SQL Server'],
   },
   architecture: ['MVC', 'MVVM', 'Microservices'],
-  integration: ['SOAP', 'API REST'],
+  integration: ['SOAP', 'API REST', 'GraphQL'],
   os: [ 'Kali', 'Windows', 'Ubuntu', 'Manjaro' ]
 });
 ```
