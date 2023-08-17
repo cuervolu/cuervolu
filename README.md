@@ -6,7 +6,7 @@
 
 - I like to learn everything about software and web development!
 
-- I’m currently in the fifth semester :T
+- I’m currently in the sixth semester :T
 
 - ⚡ Fun fact: I am a cinephile
 
@@ -54,9 +54,10 @@ export const thingsImLearning = () => ({
       css: [ 'Bootstrap', 'Material UI', 'TailwindCSS', 'NextUI', 'Bulma']
     },
     backEnd: {
-      js: [ 'Node', 'Express', 'Nest','ASP.NET' ],
-      python: [ 'Django'],
-      misc: [ 'Firebase', 'Bash', 'Powershell', 'zsh'],
+      js: [ 'Node', 'Express', 'Nest' ],
+      csharp: [ 'ASP.NET' ],
+      python: [ 'Django' ],
+      misc: [ 'Firebase', 'Bash', 'Powershell', 'zsh' ],
     },
     mobile: ['Ionic', 'Flutter', 'React Native'],
     desktop: ['WinForms', 'WPF', 'Electron', 'Tkinter', 'Swing', 'JavaFX'],
