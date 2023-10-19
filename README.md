@@ -40,32 +40,34 @@
 export const thingsImLearning = () => ({
   askMeAbout: [
     'WebDev', 'MobileDev', 'DesktopDev', 'Tech', 'Music',
-     'History', 'Video Games', 'Anime', 'Movies', 'Series'
+    'History', 'Video Games', 'Anime', 'Movies', 'Series'
   ],
   technologies: {
-    tools: [ 'Visual Studio Code', 'Intellij IDEA',
-        'Apache NetBeans','SQL Developer', 'Redux', 'WSL',
-        'SQL Server Management Studio', 'Visual Studio', 'Formik' ],
+    tools: [
+      'Visual Studio Code', 'Intellij IDEA', 'PyCharm', 'Rider', 'GoLand', 
+      'Apache NetBeans', 'SQL Developer', 'Redux', 'WSL', 'SQL Server Management Studio', 'Visual Studio', 'Formik'
+    ],
     languages: [
-        'Javascript', 'Typescript', 'Java', 'C#', 'Rust', 'Python', 'Go'
+      'Javascript', 'Typescript', 'Java', 'C#', 'Rust', 'Python', 'Go', 'Kotlin', 'Dart'
     ],
     frontEnd: {
-      js: [ 'Angular', 'React', 'Next.js'],
-      css: [ 'Bootstrap', 'Material UI', 'TailwindCSS', 'NextUI', 'Bulma']
+      js: ['Angular', 'React', 'Next.js', 'SvelteKit', 'Astro', 'Vue.js'],
+      css: ['Bootstrap', 'Material UI', 'TailwindCSS', 'NextUI', 'ShadCN', 'Bulma']
     },
     backEnd: {
-      js: [ 'Node', 'Express', 'Nest' ],
-      csharp: [ 'ASP.NET' ],
-      python: [ 'Django' ],
-      misc: [ 'Firebase', 'Bash', 'Powershell', 'zsh' ],
+      js: ['Node', 'Express', 'Nest'],
+      csharp: ['ASP.NET'],
+      java: ['SpringBoot'],
+      python: ['Django', 'FastAPI'],
+      misc: ['Firebase', 'Bash', 'Powershell', 'zsh']
     },
     mobile: ['Ionic', 'Flutter', 'React Native'],
-    desktop: ['WinForms', 'WPF', 'Electron', 'Tkinter', 'Swing', 'JavaFX'],
-    databases: [ 'MySQL', 'SQLite', 'Oracle', 'Firestore','Mongo', 'SQL Server'],
+    desktop: ['WinForms', 'WPF', 'Electron', 'Tkinter', 'PyQT', 'Swing', '.NET MAUI', 'JavaFX'],
+    databases: ['PostgreSQL', 'MySQL', 'SQLite', 'Oracle', 'Firestore', 'Mongo', 'SQL Server'],
   },
-  architecture: ['MVC', 'MVVM', 'Microservices'],
+  architecture: ['Clean Architecture', 'MVC', 'MVVM', 'Microservices'],
   integration: ['SOAP', 'API REST', 'GraphQL'],
-  os: [ 'Kali', 'Windows', 'Ubuntu', 'Manjaro' ]
+  os: ['Kali', 'Windows', 'Ubuntu', 'Manjaro']
 });
 ```
 
