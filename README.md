@@ -6,7 +6,7 @@
 
 - I like to learn everything about software and web development!
 
-- I’m currently in the sixth semester :T
+- I’m currently in the seventh semester :T
 
 - ⚡ Fun fact: I am a cinephile
 
