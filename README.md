@@ -12,7 +12,7 @@
   
 - 🛠️ I have experience with Java, Kotlin, C#, Go, Python, Rust, Typescript and other tech
   
-- 📝 I write about my projects and experiences on my blog [cuervolu.dev](#)
+- 📝 I write about my projects and experiences on my blog [cuervolu.dev](https://cuervolu.dev/)
   
 - ⚡ Fun fact: I’m a cinephile and I’m fascinated by owls 🦉
 ---
