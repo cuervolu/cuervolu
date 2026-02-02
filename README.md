@@ -1,19 +1,9 @@
-### <div align="center">Hi there 👋, I'm **Cuervolu**</div>
+### Ángel Cuervo
 
-- 🎒 I am a computer engineer from from **Chile** 🇨🇱
+Computer engineer from Chile. I build backend systems, educational tools, and creative applications. Currently transitioning deeper into Java/Spring Boot development while exploring systems programming with Rust.
 
-- 💻 Passionate about backend development, with knowledge of full-stack technologies.
-  
-- 🔍 I'm trying to learn about compilers and system programming
-  
-- 🛠️ I have experience with Java, Kotlin, C#, Go, Python, Rust, Typescript and other tech
-  
-- 📝 I write about my projects and experiences on my blog [cuervolu.dev](https://cuervolu.dev/)
-  
-- ⚡ Fun fact: I’m a cinephile and I’m fascinated by owls 🦉
----
-### 📫 How to reach me:
-- 📸 **Instagram**: [@cuervolu](https://www.instagram.com/cuervolu)
-- 🐦 **Twitter**: [@cuervolu29](https://x.com/cuervolu29)
-- 💼 **LinkedIn**: [Ángel Cuervo](https://www.linkedin.com/in/ancuervo/)
-- 🌀 **Bluesky**: [cuervolu.dev](https://bsky.app/profile/cuervolu.dev)
+I learn by building. You'll find projects ranging from educational platforms to game development to narrative design tooling. I believe in creating software that solves real problems for real users, not just showcasing technical skills.
+
+When I'm not coding, I'm watching films, studying owls, or writing about my projects at [cuervolu.dev](https://cuervolu.dev/).
+
+**Connect:** [LinkedIn](https://www.linkedin.com/in/ancuervo/) • [Bluesky](https://bsky.app/profile/cuervolu.dev) • [Twitter](https://x.com/cuervolu29) • [Instagram](https://www.instagram.com/cuervolu)
