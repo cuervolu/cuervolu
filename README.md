@@ -1,9 +1,9 @@
 ### Ángel Cuervo
 
-Computer engineer from Chile. I build backend systems, educational tools, and creative applications. Currently transitioning deeper into Java/Spring Boot development while exploring systems programming with Rust.
+Software developer from Chile with a passion for backend engineering, systems programming, and developer tools. I enjoy exploring how things work, from programming languages and graphics engines to desktop applications.
 
-I learn by building. You'll find projects ranging from educational platforms to game development to narrative design tooling. I believe in creating software that solves real problems for real users, not just showcasing technical skills.
+I learn by building. Most of my projects start with curiosity, an interesting problem, or simply the desire to experiment with something new. I enjoy the process of turning ideas into working software as much as the end result.
 
-When I'm not coding, I'm watching films, studying owls, or writing about my projects at [cuervolu.dev](https://cuervolu.dev/).
+Outside of programming, I enjoy watching films, learning about owls, and writing about my projects at [cuervolu.dev](https://cuervolu.dev/).
 
-**Connect:** [LinkedIn](https://www.linkedin.com/in/ancuervo/) • [Bluesky](https://bsky.app/profile/cuervolu.dev) • [Twitter](https://x.com/cuervolu29) • [Instagram](https://www.instagram.com/cuervolu)
+**Connect:** [LinkedIn](https://www.linkedin.com/in/ancuervo/) · [Bluesky](https://bsky.app/profile/cuervolu.dev) · [Twitter](https://x.com/cuervolu29) · [Instagram](https://www.instagram.com/cuervolu)
